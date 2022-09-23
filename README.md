@@ -1,6 +1,6 @@
 # JAVASCRIPT DOC ASSIGNMENT 03
 
-This is my 3nd Javascript Doc Assignment.
+This is my 3rd Javascript Doc Assignment.
 
 This is my Count Down App...
 
